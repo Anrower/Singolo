@@ -16,6 +16,7 @@
     font-family: 'Lato';
     src: url('assets/fonts/Lato-Light.ttf') format('truetype');
     font-weight: 300;
+    letter-spacing: 1px;
     font-style: normal;
 }
 
